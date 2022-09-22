@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pd-Troia
-- 👀 I’m interested in MVC 
-- 🌱 I’m currently learning Lua
+- 👀 I’m interested in Unity 
+- 🌱 I’m currently learning C#
 - 📫 How to reach me Discord: Pd#4516
 - 😉 If you need a collaborator for an web project, i'm interresed 
 
