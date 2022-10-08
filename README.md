@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Pd-Troia
-- 👀 I’m interested in Unity 
-- 🌱 I’m currently learning C#
-- 📫 How to reach me Discord: Pd#4516
+- 👋 Hi, I’m Hytálo
+- 👀 I’m interested in Unity and React  
+- 🌱 I’m currently learning C# and improving my JavaScript skills
+- 📫 How to reach me on linkedin: linkedin.com/in/hytalo-benaventana
 - 😉 If you need a collaborator for an web project, i'm interresed 
 
 <!---
