@@ -1,8 +1,18 @@
-- 👋 Hi, I’m Hytálo
-- 👀 I’m interested in Unity and React  
-- 🌱 I’m currently learning C# and improving my JavaScript skills
-- 📫 How to reach me on linkedin: linkedin.com/in/hytalo-benaventana
-- 😉 If you need a collaborator for an web project, i'm interresed 
+Hi, i'm Hytalo. Now i'm studying TypeScript and Tailwind for build my first public app. Currently i'm search a Front-End developer job.  
+
+I have knowledge on those tecnologies:
+  * JavaScript
+  * Java
+  * PHP 
+  * Python
+  * React
+  * C#
+  * Unity
+  * MySQL
+  * SQLServer
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pd-Troia)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!---
 Pd-Troia/Pd-Troia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
