@@ -9,7 +9,7 @@ I have knowledge on those tecnologies:
   * C#
   * Unity
   * MySQL
-  * SQLServer
+  * SQLServer  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pd-Troia)](https://github.com/anuraghazra/github-readme-stats)
 
