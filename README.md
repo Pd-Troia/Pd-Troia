@@ -1,7 +1,8 @@
-Hi, i'm Hytalo. Now i'm studying TypeScript,Tailwind and REST API for build my first public app. Currently i'm search developer job.  
+Hi, i'm Hytalo. Now i'm studying TypeScript,Tailwind and REST API for build my first public app. 
 
 I have knowledge on those tecnologies:
   * JavaScript
+  * TypeScript
   * Java
   * PHP 
   * Python
