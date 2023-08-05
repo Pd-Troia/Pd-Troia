@@ -1,16 +1,6 @@
-Hi, i'm Hytalo. Now i'm studying TypeScript,Tailwind and REST API for build my first public app. 
-
-I have knowledge on those tecnologies:
-  * JavaScript
-  * TypeScript
-  * Java
-  * PHP 
-  * Python
-  * React
-  * C#
-  * Unity
-  * MySQL
-  * SQLServer  
+Hi, I'm Hytalo. Now working with Javascript, Typecript, and React. 
+    
+   
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pd-Troia)](https://github.com/anuraghazra/github-readme-stats)
 
